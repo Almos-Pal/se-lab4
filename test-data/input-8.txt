@@ -1,0 +1,4 @@
+# ALL: success when at least one torpedo is fired
+# Primary always fails, secondary never fails
+GT4500,1,1,1,0
+TORPEDO,ALL

@@ -1,0 +1,5 @@
+# ALL: try to fire both stores
+# Each store has one torpedo that never fails; the following SINGLE must fail
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

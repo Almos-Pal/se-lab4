@@ -1,0 +1,4 @@
+# SINGLE: if the fired store reports a failure, do not try the other one
+# Primary always fails; secondary would succeed
+GT4500,1,1,1,0
+TORPEDO,SINGLE

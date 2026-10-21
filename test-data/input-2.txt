@@ -1,0 +1,6 @@
+# SINGLE: stores are fired alternating
+# Primary has 2 torpedoes and never fails; secondary always fails
+# The second shot tries the secondary store and does not fall back to the primary
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
