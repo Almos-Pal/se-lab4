@@ -1,0 +1,4 @@
+# SINGLE: the secondary store is next but empty, so fire the primary again
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
