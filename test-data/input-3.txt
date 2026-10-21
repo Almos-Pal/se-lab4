@@ -1,0 +1,4 @@
+# SINGLE: if the store next in line is empty, try the other one
+# Primary is empty; secondary has one torpedo that never fails
+GT4500,0,0,1,0
+TORPEDO,SINGLE

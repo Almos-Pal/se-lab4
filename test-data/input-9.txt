@@ -1,0 +1,3 @@
+# No torpedo is fired successfully when both stores report a failure
+GT4500,1,1,1,1
+TORPEDO,ALL

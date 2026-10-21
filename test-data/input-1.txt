@@ -1,0 +1,4 @@
+# SINGLE: the first shot fires the primary store
+# Primary never fails; secondary always fails, so SUCCESS means the primary fired
+GT4500,1,0,1,1
+TORPEDO,SINGLE
